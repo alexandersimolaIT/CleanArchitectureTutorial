@@ -1,2 +1,16 @@
 
 .flutter-plugins-dependencies
+android/local.properties
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.dart_tool/package_config.json
+.dart_tool/package_config.json
+.flutter-plugins-dependencies
+.flutter-plugins
+.packages
+android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
+android/local.properties
+ios/Runner/GeneratedPluginRegistrant.h
+ios/Runner/GeneratedPluginRegistrant.m
+pubspec.lock
