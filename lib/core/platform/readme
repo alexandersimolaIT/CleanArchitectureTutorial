@@ -1,1 +1,2 @@
 In this folder, we put files that deal with the underlying platform (Android- or iOS-specific things).
+E.g. dealing with network connectivity is done differently on Android compared to iOS.
